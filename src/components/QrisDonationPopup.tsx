@@ -34,10 +34,10 @@ export default function QrisDonationPopup() {
         {/* Header content */}
         <div className="text-center space-y-2 mb-6">
           <h2 className="text-2xl font-black bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-            Dukung Penambahan Platform Drama Lain!
+          Tempat nonton drama china
           </h2>
           <p className="text-sm text-zinc-600 dark:text-zinc-400 font-medium leading-relaxed">
-            Donasi kamu sangat berarti untuk menambah platform drama lain dan membayar tagihan bulanan <b>https://drama.sansekai.my.id (SekaiDrama)</b> agar tetap aktif.
+            Nonton drama china terlengkap hanya di telegram<b>t.me/dramachina</b>.
           </p>
         </div>
 
@@ -53,7 +53,7 @@ export default function QrisDonationPopup() {
         </div>
         
         <p className="mt-4 text-xs text-zinc-500 dark:text-zinc-500 font-medium">
-          Yuk, dukung kami dengan scan QRIS di atas!
+          
         </p>
 
         {/* Close Button / Countdown */}
